@@ -1,0 +1,1 @@
+A model to measure the chance of hair loss depending on various parameters
